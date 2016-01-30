@@ -1,0 +1,11 @@
+.c-detail__rating {
+    display: none;
+}
+
+.tile__content {
+    text-transform: capitalize;
+}
+
+.zci__more-at {
+    align-content: center;
+}
