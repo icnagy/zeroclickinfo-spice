@@ -67,7 +67,7 @@
                     return (a.name < b.name) ? -1 : 1;
                 }
             },
-            sort_default: 'name'
+            sort_default: 'type'
         });
     };
 }(this));
